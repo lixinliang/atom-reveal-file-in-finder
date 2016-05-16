@@ -1,28 +1,26 @@
 {
   "name": "atom-reveal-file-in-finder",
   "main": "./lib/main.js",
-  "version": "0.0.1",
-  "description": "Reveal file in finder!(like sublime text)",
+  "version": "1.0.0",
+  "description": "Reveal file in Finder!(like sublime text)",
   "keywords": [
     "reveal file",
-    "finder",
-    "pane",
-    "text editor"
+    "Finder",
+    "workspace"
   ],
   "activationCommands": {
-    "atom-workspace": "atom-reveal-file-in-finder:current-file"
+    "atom-workspace": "reveal-in-finder:active-file"
   },
-  "repository": "$link",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lixinliang/atom-reveal-file-in-finder"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "readme": "",
-  "readmeFilename": "README.md",
-  "bugs": {
-    "url": "$link/issues"
-  },
-  "homepage": "$link#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "^2.2.3"
   }
 }

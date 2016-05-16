@@ -2,25 +2,15 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-reveal-file-in-finder",
-        "command": "atom-reveal-file-in-finder:toggle"
+        "label": "Reveal in Finder",
+        "command": "reveal-in-finder:active-file"
+      }
+    ],
+    "[is='atom-tabs'] li": [
+      {
+        "label": "Reveal in Finder",
+        "command": "reveal-in-finder:active-file"
       }
     ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "atom-reveal-file-in-finder",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "atom-reveal-file-in-finder:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }
