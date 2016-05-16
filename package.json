@@ -1,7 +1,7 @@
 {
   "name": "atom-reveal-file-in-finder",
   "main": "./lib/main.js",
-  "version": "1.1.2",
+  "version": "1.1.0",
   "description": "Reveal file in Finder!(like sublime text)",
   "keywords": [
     "reveal file",
