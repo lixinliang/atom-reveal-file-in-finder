@@ -3,7 +3,7 @@
 
 可以在工作区或者文件选项卡上打开文件到Finder上~
 
-![](./intro.png)
+![](https://raw.githubusercontent.com/lixinliang/atom-reveal-file-in-finder/master/intro.png)
 
 # install
 
