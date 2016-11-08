@@ -1,5 +1,9 @@
+[![apm](https://img.shields.io/apm/l/atom-reveal-file-in-finder.svg?style=flat-square)](https://atom.io/packages/atom-reveal-file-in-finder)
+[![apm](https://img.shields.io/apm/v/atom-reveal-file-in-finder.svg?style=flat-square)](https://atom.io/packages/atom-reveal-file-in-finder)
+[![apm](https://img.shields.io/apm/dm/atom-reveal-file-in-finder.svg?style=flat-square)](https://atom.io/packages/atom-reveal-file-in-finder)
+
 # atom-reveal-file-in-finder package
-> Reveal file in Finder!(like sublime text)
+> 📂Reveal file in Finder!(like sublime text)
 
 可以在工作区或者文件选项卡上打开文件到Finder上~
 
